@@ -1,2 +1,3 @@
 git commands everyone can understand
 add : register the changes in index
+commit : save the changes in index
